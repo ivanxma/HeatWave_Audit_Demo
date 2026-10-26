@@ -2,9 +2,9 @@
 
 A Flask application for configuring MySQL Enterprise Audit on HeatWave, reading audit events, and turning audit JSON into database views. Every operation provides a SQL preview and an explicit execution button.
 
-[Watch the demo](demo/heatwave-audit-demo.mp4) · [Demo guide](demo/README.md)
+[Watch the demo](demo/README.md) · [Setup instructions](#setup)
 
-[![HeatWave Enterprise Audit demo](demo/preview.png)](demo/heatwave-audit-demo.mp4)
+[![HeatWave Enterprise Audit demo](demo/preview.png)](demo/README.md)
 
 ## Setup
 

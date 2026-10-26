@@ -1,12 +1,14 @@
 # Application walkthrough
 
-[Watch HeatWave Enterprise Audit Demo](heatwave-audit-demo.mp4)
+Play the **93-second walkthrough** below. It includes on-screen captions and no audio.
 
-![Audit filter builder and SQL preview](preview.png)
+https://github.com/user-attachments/assets/5f6ab983-bfb6-4cc6-858b-b0be32b516c4
+
+[Download MP4](heatwave-audit-demo.mp4) · [Chapter captions](heatwave-audit-demo.vtt)
 
 The captioned walkthrough demonstrates the application using its isolated **sample workspace**. Database operations and audit events are simulated; the recording contains no live database credentials or saved connection profiles.
 
-The MP4 includes on-screen explanations and no audio. The accompanying [WebVTT chapter captions](heatwave-audit-demo.vtt) can be used in a compatible video player.
+The accompanying WebVTT chapter captions can be used in a compatible video player.
 
 The walkthrough covers connection profiles, log-all and class filters, account assignment, SQL preview and execution, reading audit events, maximizing output, database selection, visual column selection, creating a rolling-window view, and notifications.
 
