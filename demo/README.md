@@ -1,6 +1,6 @@
 # Application walkthrough
 
-Play the **93-second walkthrough** below. It includes on-screen captions and no audio.
+Play the **98-second walkthrough** below. It includes on-screen captions and no audio.
 
 https://github.com/user-attachments/assets/5f6ab983-bfb6-4cc6-858b-b0be32b516c4
 
@@ -16,7 +16,7 @@ See the [application README](../README.md#setup) for installation and live HeatW
 
 ## Chapters
 
-Duration: approximately 93 seconds. Format: MP4 / H.264, 1440 × 900, 25 fps.
+Duration: approximately 98 seconds. Format: MP4 / H.264, 1440 × 900, 25 fps.
 
 - **00:00** — Welcome & connection profiles
 - **00:11** — Sample workspace
