@@ -1,0 +1,5 @@
+[project]
+name = "heatwave-enterprise-audit"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = ["Flask>=3.1,<4", "mysql-connector-python>=9.5,<10.0"]

@@ -1,0 +1,13 @@
+internal_doc/
+generated/
+profiles.json
+.runtime.env
+.flask_secret_key
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+*.swp
+*.swo
