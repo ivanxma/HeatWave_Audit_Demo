@@ -1,6 +1,10 @@
 # HeatWave Enterprise Audit Demo
 
-A Flask application for configuring MySQL Enterprise Audit on HeatWave, reading audit events, and turning audit JSON into database views. Every operation provides a SQL preview and an explicit execution button.
+**For demonstration and learning purposes only.** This project illustrates MySQL Enterprise Audit on HeatWave; it is not intended as a production audit management or compliance solution.
+
+The Flask application demonstrates configuring audit filters, reading audit events, and turning audit JSON into database views. Every operation provides a SQL preview and an explicit execution button. Use the sample workspace to explore with simulated data, or connect to a dedicated HeatWave test environment to demonstrate live SQL operations.
+
+When connected to a live database, Execute runs real SQL and can change audit filters, account assignments, databases and views. Use a test environment and review each SQL preview before execution.
 
 [Watch the demo](demo/README.md) · [Setup instructions](#setup)
 

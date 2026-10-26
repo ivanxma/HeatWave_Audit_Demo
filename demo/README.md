@@ -1,5 +1,7 @@
 # Application walkthrough
 
+**For demonstration and learning purposes only.** This walkthrough illustrates the demo application using simulated data.
+
 Play the **98-second walkthrough** below. It includes on-screen captions and no audio.
 
 https://github.com/user-attachments/assets/5f6ab983-bfb6-4cc6-858b-b0be32b516c4
